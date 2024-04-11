@@ -36,6 +36,10 @@ The correlation matrix visualizes the relationship between various variables in 
 
 ### 2.1. How have COVID-19 cases and deaths varied month by month across continents?
 ![Monthly Cases and Deaths by Continent](assets/Monthly_Cases_and_Deaths_by_Continent.png)
+__NOTE:__
+* 1e7: represents 10,000,000 (10 million).
+* 1e8: represents 100,000,000 (100 million).
+* 1e9: represents 1,000,000,000 (1 billion).
 
 ### 2.2. Monthly Cases and Deaths Globally
 ![Monthly Cases and Deaths Globally](assets/Monthly_Cases_and_Deaths_Globally.png)
