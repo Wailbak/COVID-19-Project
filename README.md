@@ -77,11 +77,13 @@ ___Validating this analysis by external sources:___
 ### 5. How do COVID-19 cases and deaths vary globally?
 ![Global Distribution Cases](assets/Global_Distribution_Cases.png)
 ![Global Distribution Deaths](assets/Global_Distribution_Deaths.png)
+
  __Note :__ _(The red dots indicate the number of deaths and cases that occurred in each country. They don't indicate the area or zone of spreading)_
 
-🧐 Want to interact with the maps and see the trend of Cases and Deaths per time? Check them out here:
+__🧐 Want to interact with the maps and see the trend of Cases and Deaths per time? Check them out here:__
 
 [COVID-19 Cases Trend Map](https://public.tableau.com/views/COVID-19CasesDeaths_17126681811150/Sheet1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
 [COVID-19 Deaths Trend Map](https://public.tableau.com/views/COVID-19CasesDeaths_17126681811150/Sheet2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### 6. What is the Total number of Corona's Deaths & Cases
