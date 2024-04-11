@@ -268,8 +268,8 @@ europe_increase, north_america_increase, asia_increase
 
 * __Europe__
 ![Split 1 Europe](assets/Europe_Split1.png)
-![Split 2 Europe](assets/Europe_Split3.png)
-![Split 3 Europe](assets/Europe_Split4.png)
+![Split 2 Europe](assets/Europe_Split2.png)
+![Split 3 Europe](assets/Europe_Split3.png)
 
 * __North America__
 ![Split 1 North America](assets/North_America_Split1.png)
