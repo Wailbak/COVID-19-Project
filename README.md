@@ -283,7 +283,7 @@ europe_increase, north_america_increase, asia_increase
 __Note__ : 1e6 means 1 million // 10 to the power of 6 (1,000,000)
 
 
-### ___Key Insights___
+## ___Key Insights___
 
 __Europe:__
 
@@ -299,7 +299,7 @@ __Asia:__
 
 
 
-## Conclusion
+## __Conclusion__
 The predictions indicate that the number of COVID-19 cases increased in each continent during March, suggesting that the virus continued to spread without showing signs of decrease across these regions.
 
 
