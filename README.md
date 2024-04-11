@@ -64,7 +64,7 @@ ___Validating this analysis by external sources:___
 [Source 3](https://ourworldindata.org/covid-deaths)
 
 ### 4. What are the Top 10 Countries with the highest Cases & Deaths?
-![Top 10 countries by Cases Deaths](Top_10_countries_by_Cases_Deaths.png)
+![Top 10 countries by Cases Deaths](assets/Top_10_countries_by_Cases_Deaths.png)
 **Note** : _(The bar chart represents total cases, while the line chart with markers indicates total deaths for these countries)_
 
 #### _**Key Insights**_:
@@ -75,8 +75,8 @@ ___Validating this analysis by external sources:___
 * **Response Measures**: Indirectly, the plot also offers insights into the effectiveness of different countries' response measures. Countries with lower death rates despite high case counts may have had more effective healthcare responses or mitigation strategies.
 
 ### 5. How do COVID-19 cases and deaths vary globally?
-![Global Distribution Cases](Global_Distribution_Cases.png)
-![Global Distribution Deaths](Global_Distribution_Deaths)
+![Global Distribution Cases](assets/Global_Distribution_Cases.png)
+![Global Distribution Deaths](assets/Global_Distribution_Deaths)
  __Note :__ _(The red dots indicate the number of deaths and cases that occurred in each country. They don't indicate the area or zone of spreading)_
 
 [COVID-19 Cases Trend Map](https://public.tableau.com/views/COVID-19CasesDeaths_17126681811150/Sheet1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
