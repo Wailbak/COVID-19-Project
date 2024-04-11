@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&pause=3000&color=F78300&repeat=false&random=false&width=464&lines=Corona+Virus+Data+Analysis+(2020-2021))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&pause=5000&color=F78300&random=false&width=464&lines=Corona+Virus+Data+Analysis+(2020-2021))](https://git.io/typing-svg)
 
 # Introduction
 🌍 Navigating the Pandemic: Insights from Global Data 📉 This project delves into the intricacies of the COVID-19 pandemic, unraveling the threads of 🦠 infection rates, mortality, and public health responses across the globe. Through a lens focused on 🧪 testing, 📊 case counts, and 💔 death tolls, alongside demographic and healthcare capacity markers, we uncover patterns and correlations that shed light on the pandemic's impact. From the role of 🏥 healthcare infrastructure to demographic vulnerabilities and the critical importance of 🧬 testing, this analysis offers a comprehensive view of how countries have navigated the challenges posed by this unprecedented global health crisis.
