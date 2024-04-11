@@ -266,19 +266,19 @@ europe_increase, north_america_increase, asia_increase
 ## Visualizing the Predictions and the Model's Performance:
 
 * __Europe__
-![Split 1 Europe](assets/Europe_Split1)
-![Split 2 Europe](assets/Europe_Split3)
-![Split 3 Europe](assets/Europe_Split4)
+![Split 1 Europe](assets/Europe_Split1.png)
+![Split 2 Europe](assets/Europe_Split3.png)
+![Split 3 Europe](assets/Europe_Split4.png)
 
 * __North America__
-![Split 1 North America](assets/North_America_Split1)
-![Split 2 North America](assets/North_America_Split2)
-![Split 3 North America](assets/North_America_Split3)
+![Split 1 North America](assets/North_America_Split1.png)
+![Split 2 North America](assets/North_America_Split2.png)
+![Split 3 North America](assets/North_America_Split3.png)
 
 * __Asia__
-![Split 1 Asia](assets/Asia_Split1)
-![Split 2 Asia](assets/Asia_Split2)
-![Split 3 Asia](assets/Asia_Split3)
+![Split 1 Asia](assets/Asia_Split1.png)
+![Split 2 Asia](assets/Asia_Split2.png)
+![Split 3 Asia](assets/Asia_Split3.png)
 
 __Note__ : 1e6 means 1 million // 10 to the power of 6 (1,000,000)
 
