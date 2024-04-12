@@ -3,6 +3,7 @@
 🌍 Navigating the Pandemic: Insights from Global Data 📉 This project delves into the intricacies of the COVID-19 pandemic, unraveling the threads of 🦠 infection rates, mortality, and public health responses across the globe. Through a lens focused on 🧪 testing, 📊 case counts, and 💔 death tolls, alongside demographic and healthcare capacity markers, we uncover patterns and correlations that shed light on the pandemic's impact. From the role of 🏥 healthcare infrastructure to demographic vulnerabilities and the critical importance of 🧬 testing, this analysis offers a comprehensive view of how countries have navigated the challenges posed by this unprecedented global health crisis.
 
 🔍Looking for Python scripts I Used? Check them out here: [NoteBook folder](/notebook/)
+🤔Do you preffer seeing the project in a slide show? Check my PowerPoint presentatiom here: [COVID-19.PPT](https://docs.google.com/presentation/d/1sBG9MKsGrw3QQgLUZGAfSKapKQy75x8y/edit?usp=sharing&ouid=114819652864972852422&rtpof=true&sd=true)
 
 ### Aim of the project :
 
