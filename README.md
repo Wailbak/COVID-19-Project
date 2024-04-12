@@ -4,7 +4,7 @@
 
 🔍Looking for Python scripts I Used? Check them out here: [NoteBook folder](/notebook/)
 
-🤔Do you preffer seeing the project in a slide show? Check my PowerPoint presentatiom here: [COVID-19.PPT](https://docs.google.com/presentation/d/1sBG9MKsGrw3QQgLUZGAfSKapKQy75x8y/edit?usp=sharing&ouid=114819652864972852422&rtpof=true&sd=true)
+🤔Do you preffer seeing the project in a slide show? Check it out here: [COVID-19.PPT](https://docs.google.com/presentation/d/1sBG9MKsGrw3QQgLUZGAfSKapKQy75x8y/edit?usp=sharing&ouid=114819652864972852422&rtpof=true&sd=true)
 
 ### Aim of the project :
 
