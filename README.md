@@ -83,7 +83,7 @@ ___Validating this analysis by external sources:___
 
  __Note :__ _(The red dots indicate the number of deaths and cases that occurred in each country. They don't indicate the area or zone of spreading)_
 
-__🧐 Want to interact with the maps and see the trend of Cases and Deaths per time? Check them out here:__
+__🧐 Want to interact with the maps and see the trend of Cases and Deaths over time? Check them out here:__
 
 [COVID-19 Cases Trend Map](https://public.tableau.com/views/COVID-19CasesDeaths_17126681811150/Sheet1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
