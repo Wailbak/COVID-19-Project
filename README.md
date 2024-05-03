@@ -117,7 +117,7 @@ __🧐 Want to interact with the maps and see the trend of Cases and Deaths over
 
 ### 7. Can we predict next month's COVID-19 Cases?
 
-To forecast next month's COVID-19 __Cases__, we've chosen the __Prophet__ model by Facebook, known for handling time series data effectively.
+📈 To forecast next month's COVID-19 __Cases__, we've chosen the __Prophet__ model by Facebook, known for handling time series data effectively.
 
 * ### __Step 1:__ Isolating Countries by Continent:
 
