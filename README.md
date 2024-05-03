@@ -302,7 +302,7 @@ __Asia:__
 
 
 
-## __Conclusion__
+## 🏁 __Conclusion__
 The predictions indicate that the number of COVID-19 cases increased in each continent during March, suggesting that the virus continued to spread without showing signs of decrease across these regions.
 
 
